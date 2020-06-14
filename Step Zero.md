@@ -3,7 +3,7 @@
 - [x] ArcGIS Pro runs on Windows only
 - [x] Pix4D Desktop runs on Windows only
 - [x] Install the WebODM Lightning client and create your WebODM Lightning online account
-- [ ] QGIS 'Step Zero' [Assignment](https://github.com/dronecamp/exercises/blob/master/qgis_step_zero.md)
+- [x] QGIS 'Step Zero' [Assignment](https://github.com/dronecamp/exercises/blob/master/qgis_step_zero.md)
 
 ## [OpenDroneMap](https://www.opendronemap.org/docs/)
 
