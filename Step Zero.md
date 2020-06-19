@@ -13,7 +13,7 @@
 - if see `couldn't connect to Docker daemon at` error, use `sudo ./webodm.sh start`
 - after installation, open a browser and enter `http://localhost:8000`
 
-## [qgis](https://qgis.org/en/site/forusers/alldownloads.html)
+## [QGIS](https://qgis.org/en/site/forusers/alldownloads.html)
 
 - to start it on ubuntu, search `QGIS desktop` in the app center
 - result of the tutorial is
