@@ -4,7 +4,7 @@
 - [x] Pix4D Desktop runs on Windows only
 - [x] Install the WebODM Lightning client and create your WebODM Lightning online account
 - [x] QGIS 'Step Zero' [Assignment](https://github.com/dronecamp/exercises/blob/master/qgis_step_zero.md)
-- [ ] download data for `Multispectral Data Visualization and Extraction with QGIS` from [here](https://dronecamp.github.io/2020/2020-06-24.html#multispectral-data-visualization-and-extraction-with-qgis)
+- [x] download data for `Multispectral Data Visualization and Extraction with QGIS` from [here](https://dronecamp.github.io/2020/2020-06-24.html#multispectral-data-visualization-and-extraction-with-qgis)
 
 ## [OpenDroneMap](https://www.opendronemap.org/docs/)
 

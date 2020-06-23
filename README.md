@@ -18,9 +18,7 @@ This repo contains notes for [DroneCamp 2020](http://igis.ucanr.edu/dronecamp/)
 5. Deeper Dives by Field Thursday June 25, 2:00 - 3:50 pm PDT
 - UAS Applications in Coastal and Marine Systems
 
-## Participant Speed Talks
-
-### Thu. June 25, 2020 9:00 - 9:50.
+## Participant Speed Talks Thu. June 25, 2020 9:00 - 9:50.
 
 - Extracting features from drone capture
 - Virtual Reality and Drone FPV Helping Physically Disabled People to Navigate Through Less Accessible Routes
