@@ -14,8 +14,26 @@
 
 ## output
 
+- sample dataset  
+
 ![](assets/207ec6dd.png)
+
+- IMAV 2014 dataset
+
+![](assets/69631eb8.png)
+
+![](assets/e27fdd6b.png)
+
+![](assets/a218e3bf.png)
+
+![](assets/3fd2cce5.png)
+
+![](assets/155c5d22.png)
+
+![](assets/f4cd6e8c.png)
+
+![](assets/209d5ca2.png)
 
 ## debug
 
-- cannot login to WebODM in the browser using the WebODM Lightning credentials, need to use `./webodm.sh resetadminpassword yournewpass` to change the password 
+- cannot login to WebODM in the browser using the WebODM Lightning credentials, need to use `./webodm.sh resetadminpassword yournewpass` to change the password
