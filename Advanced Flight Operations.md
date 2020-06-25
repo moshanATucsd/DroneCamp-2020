@@ -12,7 +12,9 @@
 
 - you are responsible for yielding to all other traffic, refer to see and avoid below
 
+- need night flight waiver, training, before doing night flight
 
+- line of sight is still required for night flight 
 
 ## slides
 
@@ -40,3 +42,7 @@
 ![](assets/4a4bda20.png)
 ![](assets/9be8e370.png)
 ![](assets/a860a2ba.png)
+
+![](assets/9e3e43d4.png)
+![](assets/b4f10572.png)
+![](assets/1bffc3f2.png)
