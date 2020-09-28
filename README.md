@@ -2,6 +2,7 @@
 
 This repo contains notes for [DroneCamp 2020](http://igis.ucanr.edu/dronecamp/)
 - online program is [here](https://dronecamp.github.io/2020/setup.html#gis-and-photogrammetry-software)
+- videos are [here](https://www.youtube.com/playlist?list=PL3a8ETZjFETZ9FX-JE6OH6JVbsUaGHP1g)
 - repo is [here](https://github.com/dronecamp)
 
 ## Schedule
