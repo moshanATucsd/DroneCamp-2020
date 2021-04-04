@@ -15,6 +15,7 @@
 ## how to run 
 
 - follow [this](https://docs.opendronemap.org/installation.html#hello-webodm) to install, then in webodm folder, run `./webodm.sh start` 
+- then open a browser and enter `http://localhost:8000` 
 
 ## output
 
